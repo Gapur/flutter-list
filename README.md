@@ -1,6 +1,8 @@
-# flutter_list
+# Flutter-List
 
-A new Flutter project.
+Startup-Namer App on Flutter Dart
+
+![flutter_list](/assets/flutter-example.gif)
 
 ## Getting Started
 
